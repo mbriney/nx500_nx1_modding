@@ -1,0 +1,8 @@
+button|Time-Lapse|@/opt/home/scripts/gui_tl.NX1
+button|Custom Func.|@/opt/home/scripts/gui_func.NX1
+
+button|Focus + Profiles|@/opt/home/scripts/gui_focus.NX1
+button|Settings|@/opt/home/scripts/gui_settings.NX1
+
+button|Hibernate|hibernate.sh
+button|Sleep|sleep.sh

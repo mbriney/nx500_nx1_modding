@@ -1,0 +1,11 @@
+button|Save EV+UP|save_UP.sh
+button|Load EV+UP|EV_UP.sh
+
+button|Save EV+DN|save_DOWN.sh
+button|Load EV+DN|EV_DOWN.sh
+
+button|Save FullBackup|FullSave.sh
+button|Load FullBackup|FullLoad.sh
+
+button|back|@/opt/home/scripts/gui_focus.NX500
+button|cancel|/opt/home/scripts/gui_exit.sh

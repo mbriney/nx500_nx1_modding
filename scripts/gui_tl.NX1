@@ -1,0 +1,5 @@
+button|Wake Lapse|wakelapse.sh
+button|Ramping|@/tmp/gui_ramp.NX1
+
+button|back|@/opt/home/scripts/gui_ini.NX1
+button|cancel|/opt/home/scripts/gui_exit.sh

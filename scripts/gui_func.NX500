@@ -1,0 +1,14 @@
+button|LCD-Off Rec.|nrec.sh
+button|Video Bitrates|@/tmp/gui_br.NX500
+
+button|ZoomZoom|zoomzoom.sh
+button|Mod Resolutions|@/opt/home/scripts/gui_res.NX500
+
+button|Batch Recording|brec.sh
+button|HDR|1HDR.sh
+
+button| Mod v2.55 |ver.sh
+checkbox|Camcorder Mode|camcorder_mode.sh
+
+button|back|@/opt/home/scripts/gui_ini.NX500
+button|cancel|/opt/home/scripts/gui_exit.sh

@@ -1,0 +1,14 @@
+checkbox|No Lens Release|nolens.sh
+checkbox|No Rec Limit|r-limit.sh
+
+checkbox|Refocus on Boot|refocus.sh
+checkbox|Enable Bluetooth|bt.sh
+
+checkbox|Swap 128MB|swap.sh
+checkbox|OFF menu-button|z_button.sh
+
+button| Mod v2.55 |ver.sh
+button|Uninstall Mod|uninstall.sh
+
+button|back|@/opt/home/scripts/gui_ini.NX1
+button|cancel|/opt/home/scripts/gui_exit.sh

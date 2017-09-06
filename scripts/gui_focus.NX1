@@ -1,0 +1,8 @@
+button|Focus Stacking|/opt/home/scripts/fstack.sh
+button|Focus Buttons|/opt/home/scripts/focus_buttons
+
+button|Profiles|@/opt/home/scripts/gui_profiles.NX1
+button|Focus-Pull Speed|/opt/home/scripts/fpspeed.sh
+
+button|back|@/opt/home/scripts/gui_ini.NX1
+button|cancel|/opt/home/scripts/gui_exit.sh

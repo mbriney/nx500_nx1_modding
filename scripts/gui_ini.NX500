@@ -1,0 +1,8 @@
+button|Time-Lapse|@/opt/home/scripts/gui_tl.NX500
+button|Custom Func.|@/opt/home/scripts/gui_func.NX500
+
+button|Focus + Profiles|@/opt/home/scripts/gui_focus.NX500
+button|Settings|@/opt/home/scripts/gui_settings.NX500
+
+button|Hibernate|hibernate.sh
+button|Sleep|sleep.sh
